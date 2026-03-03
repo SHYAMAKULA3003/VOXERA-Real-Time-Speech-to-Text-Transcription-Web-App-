@@ -1,30 +1,30 @@
-`VOXERA`
-Intelligent Real-Time Speech-to-Text Transcription Platform
+`🎙️ VOXERA
+Real-Time Speech-to-Text Web Application`
 
-VOXERA is a real-time speech-to-text web application designed to transform natural human speech into structured, readable, and exportable content with speed and precision. Built using modern browser-based speech recognition APIs, the platform captures spoken input dynamically and converts it into live transcription with minimal latency.
+VOXERA is a browser-based real-time speech-to-text application that converts spoken words into structured, readable text instantly. Built using modern Web Speech APIs, the platform captures live voice input and dynamically generates accurate transcriptions with minimal latency.
 
-The application emphasizes clarity, accessibility, and seamless user interaction. Users can start and stop recordings effortlessly, monitor real-time transcription, and export structured transcripts as professionally formatted PDF documents. Designed with a clean and responsive interface, VOXERA bridges the gap between voice communication and digital documentation.
+The application features a clean and intuitive interface that allows users to start and stop recording seamlessly while viewing real-time transcript updates. Users can also export generated content as a professionally formatted PDF, making it suitable for academic, professional, and productivity use cases.
 
-More than just a transcription tool, VOXERA reflects a user-centric approach to engineering — combining performance, simplicity, and thoughtful UI architecture to enhance productivity and digital accessibility.
+VOXERA demonstrates practical implementation of real-time event handling, DOM manipulation, and responsive UI design using modern web technologies. The project reflects a user-focused engineering approach where clarity, accessibility, and performance work together to deliver a smooth digital experience.
 
-## ✨ Key Features
-- Real-time speech recognition
-- Live transcription display
-- Start/Stop recording control
-- PDF export functionality
-- Responsive and clean UI
+✨ Features
 
-## 🛠 Tech Stack
-- HTML5
-- CSS3
-- JavaScript (ES6)
-- Web Speech API
+Real-time speech recognition
 
-## 🚀 How It Works
-VOXERA leverages the browser's SpeechRecognition interface to capture spoken input, process it in real time, and dynamically render transcript output. The system manages event handling for start, stop, result, and error states to ensure smooth and reliable performance.
+Live transcription display
 
-## 🔮 Future Enhancements
-- Multi-language support
-- Cloud transcript storage
-- AI-powered summarization
-- Noise filtering improvements
+Start/Stop recording control
+
+PDF export functionality
+
+Responsive design
+
+🛠 Tech Stack
+
+HTML5
+
+CSS3
+
+JavaScript (ES6)
+
+Web Speech API
